@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Preprava>
+    <Balicek Letadlo="OO-BKB">
+        <Odkud>AUT</Odkud>
+        <Trasa>[AUT, DEU]</Trasa>
+        <Kam>DEU</Kam>
+        <Kdy>2</Kdy>
+    </Balicek>
+    <Balicek Letadlo="CU-V1005">
+        <Odkud>CZE</Odkud>
+        <Trasa>[CZE, AUT, HUN, ROU, BGR, MKD, UNK, ALB, GRC, TUR, GEO, RUS]</Trasa>
+        <Kam>RUS</Kam>
+        <Kdy>12</Kdy>
+    </Balicek>
+    <Balicek Letadlo="OK-AHT">
+        <Odkud>CZE</Odkud>
+        <Trasa>[CZE, AUT, ITA]</Trasa>
+        <Kam>ITA</Kam>
+        <Kdy>3</Kdy>
+    </Balicek>
+    <Balicek Letadlo="US-MUSTANG">
+        <Odkud>ROU</Odkud>
+        <Trasa>[ROU, HUN, SVN, AUT, DEU]</Trasa>
+        <Kam>DEU</Kam>
+        <Kdy>5</Kdy>
+    </Balicek>
+    <Balicek Letadlo="OO-BKB">
+        <Odkud>HRV</Odkud>
+        <Trasa>[HRV, HUN]</Trasa>
+        <Kam>HUN</Kam>
+        <Kdy>2</Kdy>
+    </Balicek>
+    <Balicek Letadlo="CU-V1005">
+        <Odkud>SVK</Odkud>
+        <Trasa>[SVK, UKR, HUN, SVN, HRV, BIH, SRB, MNE, ALB]</Trasa>
+        <Kam>ALB</Kam>
+        <Kdy>9</Kdy>
+    </Balicek>
+</Preprava>

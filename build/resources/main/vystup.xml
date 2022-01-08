@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Preprava>
+    <Balicek Letadlo="OO-BKB">
+        <Odkud>AUT</Odkud>
+        <Trasa>[AUT, DEU]</Trasa>
+        <Kam>DEU</Kam>
+        <Kdy>2</Kdy>
+    </Balicek>
+    <Balicek Letadlo="CU-V1005">
+        <Odkud>CZE</Odkud>
+        <Trasa>[CZE, POL, RUS]</Trasa>
+        <Kam>RUS</Kam>
+        <Kdy>3</Kdy>
+    </Balicek>
+    <Balicek Letadlo="OK-AHT">
+        <Odkud>CZE</Odkud>
+        <Trasa>[CZE, SVK, AUT, ITA]</Trasa>
+        <Kam>ITA</Kam>
+        <Kdy>4</Kdy>
+    </Balicek>
+    <Balicek Letadlo="US-MUSTANG">
+        <Odkud>ROU</Odkud>
+        <Trasa>[ROU, MDA, UKR, RUS, KAZ, KGZ, UZB, TJK, CHN, PAK, AFG, IRN, TUR, BGR, MKD, SRB, HUN, SVK, CZE, DEU]</Trasa>
+        <Kam>DEU</Kam>
+        <Kdy>20</Kdy>
+    </Balicek>
+    <Balicek Letadlo="OO-BKB">
+        <Odkud>HRV</Odkud>
+        <Trasa>[HRV, HUN]</Trasa>
+        <Kam>HUN</Kam>
+        <Kdy>2</Kdy>
+    </Balicek>
+    <Balicek Letadlo="CU-V1005">
+        <Odkud>SVK</Odkud>
+        <Trasa>[SVK, HUN, UKR, MDA, ROU, BGR, GRC, ALB]</Trasa>
+        <Kam>ALB</Kam>
+        <Kdy>8</Kdy>
+    </Balicek>
+    <Balicek Letadlo="OK-AHT">
+        <Odkud>AUT</Odkud>
+        <Trasa>[AUT, DEU]</Trasa>
+        <Kam>DEU</Kam>
+        <Kdy>2</Kdy>
+    </Balicek>
+    <Balicek Letadlo="US-MUSTANG">
+        <Odkud>CZE</Odkud>
+        <Trasa>[CZE, POL, RUS]</Trasa>
+        <Kam>RUS</Kam>
+        <Kdy>3</Kdy>
+    </Balicek>
+    <Balicek Letadlo="OO-BKB">
+        <Odkud>CZE</Odkud>
+        <Trasa>[CZE, AUT, ITA]</Trasa>
+        <Kam>ITA</Kam>
+        <Kdy>3</Kdy>
+    </Balicek>
+    <Balicek Letadlo="CU-V1005">
+        <Odkud>ROU</Odkud>
+        <Trasa>[ROU, HUN, SVK, CZE, DEU]</Trasa>
+        <Kam>DEU</Kam>
+        <Kdy>5</Kdy>
+    </Balicek>
+    <Balicek Letadlo="OK-AHT">
+        <Odkud>HRV</Odkud>
+        <Trasa>[HRV, HUN]</Trasa>
+        <Kam>HUN</Kam>
+        <Kdy>2</Kdy>
+    </Balicek>
+    <Balicek Letadlo="US-MUSTANG">
+        <Odkud>SVK</Odkud>
+        <Trasa>[SVK, UKR, HUN, SRB, MKD, ALB]</Trasa>
+        <Kam>ALB</Kam>
+        <Kdy>6</Kdy>
+    </Balicek>
+    <Balicek Letadlo="OO-BKB">
+        <Odkud>AUT</Odkud>
+        <Trasa>[AUT, DEU]</Trasa>
+        <Kam>DEU</Kam>
+        <Kdy>2</Kdy>
+    </Balicek>
+    <Balicek Letadlo="CU-V1005">
+        <Odkud>CZE</Odkud>
+        <Trasa>[CZE, DEU, POL, RUS]</Trasa>
+        <Kam>RUS</Kam>
+        <Kdy>4</Kdy>
+    </Balicek>
+    <Balicek Letadlo="OK-AHT">
+        <Odkud>CZE</Odkud>
+        <Trasa>[CZE, AUT, ITA]</Trasa>
+        <Kam>ITA</Kam>
+        <Kdy>3</Kdy>
+    </Balicek>
+    <Balicek Letadlo="US-MUSTANG">
+        <Odkud>ROU</Odkud>
+        <Trasa>[ROU, UKR, RUS, LVA, BLR, LTU, POL, DEU]</Trasa>
+        <Kam>DEU</Kam>
+        <Kdy>8</Kdy>
+    </Balicek>
+    <Balicek Letadlo="OO-BKB">
+        <Odkud>HRV</Odkud>
+        <Trasa>[HRV, HUN]</Trasa>
+        <Kam>HUN</Kam>
+        <Kdy>2</Kdy>
+    </Balicek>
+    <Balicek Letadlo="CU-V1005">
+        <Odkud>SVK</Odkud>
+        <Trasa>[SVK, UKR, MDA, ROU, BGR, GRC, ALB]</Trasa>
+        <Kam>ALB</Kam>
+        <Kdy>7</Kdy>
+    </Balicek>
+    <Balicek Letadlo="OK-AHT">
+        <Odkud>AUT</Odkud>
+        <Trasa>[AUT, DEU]</Trasa>
+        <Kam>DEU</Kam>
+        <Kdy>2</Kdy>
+    </Balicek>
+    <Balicek Letadlo="US-MUSTANG">
+        <Odkud>CZE</Odkud>
+        <Trasa>[CZE, SVK, POL, RUS]</Trasa>
+        <Kam>RUS</Kam>
+        <Kdy>4</Kdy>
+    </Balicek>
+    <Balicek Letadlo="OO-BKB">
+        <Odkud>CZE</Odkud>
+        <Trasa>[CZE, DEU, FRA, ITA]</Trasa>
+        <Kam>ITA</Kam>
+        <Kdy>4</Kdy>
+    </Balicek>
+    <Balicek Letadlo="CU-V1005">
+        <Odkud>ROU</Odkud>
+        <Trasa>[ROU, SRB, MKD, BGR, TUR, AZE, IRN, AFG, TKM, UZB, KGZ, TJK, CHN, RUS, POL, DEU]</Trasa>
+        <Kam>DEU</Kam>
+        <Kdy>16</Kdy>
+    </Balicek>
+    <Balicek Letadlo="OK-AHT">
+        <Odkud>HRV</Odkud>
+        <Trasa>[HRV, HUN]</Trasa>
+        <Kam>HUN</Kam>
+        <Kdy>2</Kdy>
+    </Balicek>
+    <Balicek Letadlo="US-MUSTANG">
+        <Odkud>SVK</Odkud>
+        <Trasa>[SVK, HUN, SRB, UNK, ALB]</Trasa>
+        <Kam>ALB</Kam>
+        <Kdy>5</Kdy>
+    </Balicek>
+    <Balicek Letadlo="OO-BKB">
+        <Odkud>AUT</Odkud>
+        <Trasa>[AUT, DEU]</Trasa>
+        <Kam>DEU</Kam>
+        <Kdy>2</Kdy>
+    </Balicek>
+    <Balicek Letadlo="CU-V1005">
+        <Odkud>CZE</Odkud>
+        <Trasa>[CZE, POL, RUS]</Trasa>
+        <Kam>RUS</Kam>
+        <Kdy>3</Kdy>
+    </Balicek>
+    <Balicek Letadlo="OK-AHT">
+        <Odkud>CZE</Odkud>
+        <Trasa>[CZE, SVK, HUN, SVN, ITA]</Trasa>
+        <Kam>ITA</Kam>
+        <Kdy>5</Kdy>
+    </Balicek>
+    <Balicek Letadlo="US-MUSTANG">
+        <Odkud>ROU</Odkud>
+        <Trasa>[ROU, SRB, HUN, SVN, AUT, DEU]</Trasa>
+        <Kam>DEU</Kam>
+        <Kdy>6</Kdy>
+    </Balicek>
+    <Balicek Letadlo="OO-BKB">
+        <Odkud>HRV</Odkud>
+        <Trasa>[HRV, HUN]</Trasa>
+        <Kam>HUN</Kam>
+        <Kdy>2</Kdy>
+    </Balicek>
+    <Balicek Letadlo="CU-V1005">
+        <Odkud>SVK</Odkud>
+        <Trasa>[SVK, CZE, POL, DEU, FRA, CHE, AUT, HUN, ROU, SRB, BGR, MKD, ALB]</Trasa>
+        <Kam>ALB</Kam>
+        <Kdy>13</Kdy>
+    </Balicek>
+    <Balicek Letadlo="OK-AHT">
+        <Odkud>AUT</Odkud>
+        <Trasa>[AUT, DEU]</Trasa>
+        <Kam>DEU</Kam>
+        <Kdy>2</Kdy>
+    </Balicek>
+    <Balicek Letadlo="US-MUSTANG">
+        <Odkud>CZE</Odkud>
+        <Trasa>[CZE, DEU, AUT, SVN, HRV, MNE, SRB, UNK, ALB, MKD, BGR, ROU, MDA, UKR, RUS]</Trasa>
+        <Kam>RUS</Kam>
+        <Kdy>15</Kdy>
+    </Balicek>
+    <Balicek Letadlo="OO-BKB">
+        <Odkud>CZE</Odkud>
+        <Trasa>[CZE, POL, DEU, FRA, ITA]</Trasa>
+        <Kam>ITA</Kam>
+        <Kdy>5</Kdy>
+    </Balicek>
+    <Balicek Letadlo="CU-V1005">
+        <Odkud>ROU</Odkud>
+        <Trasa>[ROU, SRB, BGR, GRC, TUR, ARM, AZE, RUS, LTU, BLR, POL, DEU]</Trasa>
+        <Kam>DEU</Kam>
+        <Kdy>12</Kdy>
+    </Balicek>
+    <Balicek Letadlo="OK-AHT">
+        <Odkud>HRV</Odkud>
+        <Trasa>[HRV, HUN]</Trasa>
+        <Kam>HUN</Kam>
+        <Kdy>2</Kdy>
+    </Balicek>
+    <Balicek Letadlo="US-MUSTANG">
+        <Odkud>SVK</Odkud>
+        <Trasa>[SVK, UKR, MDA, ROU, HUN, HRV, MNE, ALB]</Trasa>
+        <Kam>ALB</Kam>
+        <Kdy>8</Kdy>
+    </Balicek>
+</Preprava>
